@@ -30,5 +30,8 @@
   "homepage": "https://github.com/jxcore/jxcore-cordova#readme",
   "dependencies": {
     "adm-zip" : "^0.4.7"
+  },
+  "scripts": {
+    "preinstall" : "scripts/preinstall.js"
   }
 }
