@@ -43,6 +43,6 @@ jxcore-cordova.jx
 
 io.jxcore.node.jx
 
-bin/
+#bin/
 
-src/android/libs/
+#src/android/libs/
